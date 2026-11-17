@@ -14,3 +14,5 @@ mkdocs-section-index
 mkdocs-htmlproofer-plugin
 mkdocs-meta-descriptions-plugin
 mike
+mkdocs-llmstxt>=0.5.1
+mkdocs-percona-llmstxt @ git+https://github.com/EvgeniyPatlan/mkdocs-percona-llmstxt@d52e840cd7ad171233eb98a4eb998e30fec5e19f  # v0.2.0
