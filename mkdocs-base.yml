@@ -1,7 +1,7 @@
 # MkDocs configuration for builds with material theme
 
 site_name: Percona Distribution for MongoDB 7.0
-site_description: Documentation
+site_description: "Percona Distribution for MongoDB 8.0, a collection of Percona Server for MongoDB and Percona Backup for MongoDB for running and backing up MongoDB, with installation, upgrade and release notes"
 site_author: Percona LLC
 copyright: >
   <a href="https://www.percona.com/about">Percona LLC</a> and/or its affiliates © 2024 — <a href="#__consent">Cookie Consent</a>
